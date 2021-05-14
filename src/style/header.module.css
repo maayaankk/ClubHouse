@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5em 1em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(247, 241, 241);
+}
+.header img {
+    width: 25px;
+}
+
+.nav_items img {
+    margin: 0 0.8em;
+    
+}

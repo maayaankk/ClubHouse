@@ -1,0 +1,74 @@
+{
+  "people": [
+    {
+      "title": "April Underwood",
+      "description": " CEO and Founder, local Laboratory. Co-fonder #ANajkaslkdasld"
+    },
+    {
+      "title": "Helena Price Hambrecht",
+      "description": "Founder @drinkaus / Twitter @helena"
+    },
+    {
+      "title": "James Cham",
+      "description": "@jamescham"
+    }
+  ],
+  "conversation": [
+    {
+      "title": "Tech",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Languages",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Places",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Identity",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Sports",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Life",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Knowledge",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Hustle",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Arts",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Entertainment",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Hanging Out",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Faith",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "Wellness",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    },
+    {
+      "title": "World Affairs",
+      "discription": "Venture Capital, DTC, AI, SaaS, Angel Investing"
+    }
+  ]
+}
