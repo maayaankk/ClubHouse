@@ -1,14 +1,14 @@
-import "./App.css";
-import PlanLayout from "./pages/layouts/PlanLayout";
-import Welcome from "./pages/Welcome";
+import "./App.css"
+import PlanLayout from "./pages/layouts/PlanLayout"
+import Welcome from "./pages/Welcome"
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
-import PhoneConfirmation from "./pages/PhoneConfirmation";
-import CodeConfirmation from "./pages/CodeConfirmation";
-import AllowNotification from "./pages/AllowNotification";
-import AppLayout from "./pages/layouts/AppLayout";
-import Home from "./pages/Home";
-import Explore from './pages/Explore';
-import Profile from './pages/Profile';
+import PhoneConfirmation from "./pages/PhoneConfirmation"
+import CodeConfirmation from "./pages/CodeConfirmation"
+import AllowNotification from "./pages/AllowNotification"
+import AppLayout from "./pages/layouts/AppLayout"
+import Home from "./pages/Home"
+import Explore from './pages/Explore'
+import Profile from './pages/Profile'
 
 function App() {
   return (
